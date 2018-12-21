@@ -1,0 +1,24 @@
+{
+  "name": "full-stack_vue_express_posts",
+  "version": "1.0.0",
+  "description": "Fill stack vue and express app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Belchenkov/full-stack_vue_express_posts.git"
+  },
+  "keywords": [
+    "Vue.js",
+    "Express.js",
+    "Node.js"
+  ],
+  "author": "Aleksey Belchenkov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Belchenkov/full-stack_vue_express_posts/issues"
+  },
+  "homepage": "https://github.com/Belchenkov/full-stack_vue_express_posts#readme"
+}
